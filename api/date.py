@@ -14,7 +14,7 @@ class handler(BaseHTTPRequestHandler):
     dic=dict(query_string)
     name= dic.get('name')
     if name:
-      message = f'Hi {name}!\n'
+      message = f'Hi {name}\n'
     else:
       message = 'Hi Stranger\n' 
 
