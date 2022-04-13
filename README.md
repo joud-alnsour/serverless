@@ -5,4 +5,10 @@
 4- write in a query in the url path ?name=yourname to get see the Hi with your name<br>
 example:[https://serverles-alpha.vercel.app/api/date?name=joud](https://serverles-alpha.vercel.app/api/date?name=joud)<br>
 
+![page not found](/NotFoung.png)
+<br><br>
+![Stranger](/Stranger.png)
+<br><br>
+![name](/Name.png)
+
 
