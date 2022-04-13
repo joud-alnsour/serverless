@@ -25,6 +25,5 @@ class handler(BaseHTTPRequestHandler):
     self.end_headers()
     self.wfile.write(message.encode())
     self.wfile.write(str(datetime.now().strftime('%Y-%m-%d/%W/ %H:%M:%S \n')).encode())
-    self.wfile.write(calendar.calendar(2022, 2, 1, 6).encode())
 
     return
