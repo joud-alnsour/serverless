@@ -18,7 +18,7 @@ class handler(BaseHTTPRequestHandler):
     else:
       message = 'Hi Stranger\n' 
 
-    message += f"\n Greetings from Python Version {platform.python_version()} at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n"
+    message += f"\n Greetings from Python Version {platform.python_version()}\n\n"
     
     self.send_response(200)
     self.send_header('Content-type', 'text/plain')
