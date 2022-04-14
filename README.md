@@ -11,4 +11,10 @@ example:[https://serverles-alpha.vercel.app/api/date?name=joud](https://serverle
 <br><br>
 ![name](/Name.png)
 
-
+## Testing using Thunder client
+1-Use this URL (https://serverles-alpha.vercel.app/api/date?name=)<br>
+2-Choose Get request<br>
+3-go to Query section<br>
+4-Write your name after = and you will see this<br>
+<br>
+![name](/Thunderclient.png)
