@@ -15,6 +15,6 @@ example:[https://serverles-alpha.vercel.app/api/date?name=joud](https://serverle
 1-Use this URL (https://serverles-alpha.vercel.app/api/date?name=)<br>
 2-Choose Get request<br>
 3-go to Query section<br>
-4-Write your name after = and you will see this<br>
+4-Write your name and you will see this<br>
 <br>
 ![name](/Thunderclient.png)
